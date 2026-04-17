@@ -7,21 +7,19 @@ Install these skills into any compatible AI agent (Claude Code, Cursor, GitHub C
 ## Install
 
 ```sh
-npx skills add <github-url>
+npx skills add saddatahmad19/kanbanned-skills
 ```
-
-Replace `<github-url>` with the URL of this repository once it is published on GitHub.
 
 To install for a specific agent only:
 
 ```sh
-npx skills add <github-url> -a claude-code
+npx skills add saddatahmad19/kanbanned-skills -a claude-code
 ```
 
 To preview available skills without installing:
 
 ```sh
-npx skills add <github-url> --list
+npx skills add saddatahmad19/kanbanned-skills --list
 ```
 
 ## Skills
